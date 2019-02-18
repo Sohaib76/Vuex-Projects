@@ -1,0 +1,10 @@
+npm install -g vue-cli
+
+vue init webpack-simple name
+
+npm install vuex --save
+
+
+npm run dev
+
+
